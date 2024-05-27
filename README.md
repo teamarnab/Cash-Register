@@ -1,5 +1,5 @@
 Problem statement
-1. Create a program for a cashier machine.
+1. Use python to create a program for a cashier machine.
 2. The program will log entries of total cash received by calculating total number of units of different denominations.
 3. In the same way machine can return balance by calculating total number of units of different denominations.
 4. Machine would be able to log all transaction in the day and print a report at the end of day.
